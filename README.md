@@ -46,18 +46,17 @@
 
 ### ⚙️ Setup Instructions
 
-    ```bash
-    git clone https://github.com/pratzie100/trivana-ai.git 
-    cd trivana-ai 
+1) Clone the repo and install dependencies in your local env:
 
-THEN IN YOUR LOCAL ENVIRONMENT
+    git clone https://github.com/pratzie100/trivana-ai.git
+    cd trivana-ai
+    pip install -r requirements.txt
 
-    ```bash
-    pip install -r requirements.txt 
+2) Run the app
+
     streamlit run app.py
 
-
-Make sure to create a `.env` file in the root directory with your Groq API key.
+3) Make sure to create a `.env` file in the root directory with your Groq API key.
 
 
 ## 🧪 LIVE DEMO
