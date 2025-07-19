@@ -139,7 +139,7 @@ def main():
 
     # Sidebar settings (unchanged)
     st.sidebar.title("Settings")
-    model = st.sidebar.selectbox("Choose a model", ["gemma2-9b-it", "llama3-8b-8192", "llama-3.1-8b-instant"])
+    model = st.sidebar.selectbox("Choose a model", ["gemma2-9b-it", "llama-3.3-70b-versatile", "llama-3.1-8b-instant"])
     genre = st.sidebar.selectbox("Choose a genre", ["Music", "Sports", "Movies"])
     conversational_memory_length = st.sidebar.slider("Conversational memory length:", 1, 10, value=5)
 
