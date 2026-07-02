@@ -24,7 +24,7 @@
 
 - 🧠 **Conversational Memory** — Retains multi-turn dialogue for a smarter, context-aware experience (configurable memory length).
 
-- 🧩 **Model Flexibility** — Choose from Groq-powered LLMs like `gemma2-9b-it`, `llama3-8b-8192`, and more.
+- 🧩 **Model Flexibility** — Choose from Groq-powered LLMs like `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`, and more.
 
 - 🌌 **Sleek UI/UX** — Fully custom-styled dark mode built with Streamlit's flexibility and CSS magic.
 
